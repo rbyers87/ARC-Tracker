@@ -1,6 +1,6 @@
 ## Install ARC-Tracker on iPhone
 
-[![Install Profile](https://img.shields.io/badge/Install-iOS%20Profile-orange?style=for-the-badge&logo=apple)](https://rbyers87.github.io/my-app/MetaForge-ARC-Raiders (1).mobileconfig)
+[![Install Profile](https://img.shields.io/badge/Install-iOS%20Profile-orange?style=for-the-badge&logo=apple)](https://rbyers87.github.io/my-app/MetaForge-ARC-Raiders(1).mobileconfig)
 
 1. Open this page in **Safari** on your iPhone and tap the button.
 2. Tap **Allow** when asked to download the configuration profile.
